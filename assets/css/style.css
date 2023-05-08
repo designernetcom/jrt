@@ -1754,6 +1754,7 @@ p {
 }
 .services-carousel-item{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-bottom: 10px;
 }
 .services.home-2 .services-carousel-item .services-item-img-box{
     /* height: 250px; */
